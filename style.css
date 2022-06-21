@@ -174,3 +174,29 @@ cursor: pointer;
 	cursor: pointer;
 	
 }
+.display-13 {
+	background-color: #F26BFF;
+	border: thick solid #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 1250px;
+	cursor: pointer;
+	
+}
+.display-14 {
+	background-color: #FFFEA7;
+	border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 1350px;
+	cursor: pointer;
+	
+}
