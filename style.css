@@ -227,3 +227,19 @@ cursor: pointer;
 .display-6:active {
 	background-color: #f05e54
 }
+.display-15 {
+	background-color: #00055C;
+	border: thick double #ffffff;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+	 left: 0px;
+    top: 1450px;
+	cursor: pointer;
+	
+}
+.display-15:active {
+	background-color: #f05e54
+}
