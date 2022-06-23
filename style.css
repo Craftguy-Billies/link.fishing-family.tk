@@ -243,3 +243,51 @@ cursor: pointer;
 .display-15:active {
 	background-color: #f05e54
 }
+.display-16:active {
+	background-color: #f05e54
+}
+.display-17:active {
+	background-color: #f05e54
+}
+.display-18:active {
+	background-color: #f05e54
+}
+.display-16 {
+	background-color: #8D82FF;
+	border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 1550px;
+	cursor: pointer;
+	
+}
+.display-17 {
+	background-color: #F8E94F;
+	border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 1650px;
+	cursor: pointer;
+	
+}
+.display-18 {
+	background-color: #65FFD6;
+	border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 0px;
+    top: 1750px;
+	cursor: pointer;
+	
+}
